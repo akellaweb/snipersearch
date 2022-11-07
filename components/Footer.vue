@@ -11,7 +11,7 @@
                     to="/"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    Home
+                    Home page
                   </nuxt-link>
                 </li>
                 <li>
@@ -19,7 +19,7 @@
                     to="/about"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    About
+                    About page
                   </nuxt-link>
                 </li>
                 <li>
@@ -27,7 +27,7 @@
                     to="/products"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    Products
+                    Products page
                   </nuxt-link>
                 </li>
                 <li>
@@ -57,7 +57,7 @@
                     to="/contact"
                     class="text-base leading-6 text-gray-300 hover:text-white"
                   >
-                    Contact
+                    Contact page
                   </nuxt-link>
                 </li>
               </ul>
