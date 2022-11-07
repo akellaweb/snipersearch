@@ -45,25 +45,25 @@
               to="/about"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
-              About
+              About site
             </nuxt-link>
             <nuxt-link
               to="/products"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
-              Products
+              Products all
             </nuxt-link>
             <nuxt-link
               to="/blog"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
-              Blog
+              Blog page
             </nuxt-link>
             <nuxt-link
               to="/contact"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
-              Contact
+              Contact us
             </nuxt-link>
           </nav>
           <div class="flex items-center space-x-8">
